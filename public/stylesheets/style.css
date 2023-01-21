@@ -240,7 +240,7 @@ footer p {
 
 /* media queries part starts here  */
 
-@media (max-width: 768px) {
+@media (max-width: 658px) {
   #logo {
     font-size: 2.5rem;
   }
@@ -267,5 +267,10 @@ footer p {
   .service-style .sub-heading,
   .contact-style .sub-heading {
     font-size: 2rem;
+  }
+  #set-1{
+    display: none;
+  justify-content: center;
+    align-items: center;
   }
 }

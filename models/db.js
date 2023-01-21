@@ -1,7 +1,7 @@
 
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://Abhishekjoshi:Abhi-joshi@cluster0.nigye1j.mongodb.net/dynamic-web?retryWrites=true&w=majority")
+mongoose.connect("mongodb+srv://mranal2906:mranal123456@cluster0.ivgtt9a.mongodb.net/DYNMIC?retryWrites=true&w=majority")
 .then(function(){
     console.log("database connected!")
 })
